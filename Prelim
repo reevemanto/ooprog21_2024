@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class main{
+   public static void main(String [] args){
+   
+   System.out.println("Fibonnaci");
+      
+  
+      int n= 1, l= 1, b=7;
+      for(int i= 0; i<=b; i++){
+      int sum= i + l, loop= n ;
+         System.out.println("Fibonnaci("+sum+ "):"+ l);}
+         
+         
+      }
+      }
+      
+               
+   
+   
+
